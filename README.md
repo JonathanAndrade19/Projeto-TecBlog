@@ -2,8 +2,8 @@
 Um Site Do Estilo Blog.
 
 ### Tecnologias usadas -> 
-Html5
-Css3
+* Html5
+* Css3
 
 ## Uma previa de como ficou -> 
 
